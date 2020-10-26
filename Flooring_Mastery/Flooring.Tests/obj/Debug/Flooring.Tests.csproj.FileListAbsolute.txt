@@ -1,0 +1,17 @@
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Tests.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Tests.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.BLL.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Data.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Models.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\nunit.framework.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.BLL.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Data.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Models.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\nunit.framework.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\nunit.framework.xml
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\obj\Debug\Flooring.Tests.csprojAssemblyReference.cache
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\obj\Debug\Flooring.Tests.csproj.CoreCompileInputs.cache
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\obj\Debug\Flooring.Tests.csproj.CopyComplete
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\obj\Debug\Flooring.Tests.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\obj\Debug\Flooring.Tests.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Tests\bin\Debug\Flooring.Tests.dll.config

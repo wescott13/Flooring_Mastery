@@ -1,0 +1,9 @@
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\bin\Debug\Flooring.Data.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\bin\Debug\Flooring.Data.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\bin\Debug\Flooring.Models.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\bin\Debug\Flooring.Models.pdb
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\obj\Debug\Flooring.Data.csprojAssemblyReference.cache
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\obj\Debug\Flooring.Data.csproj.CoreCompileInputs.cache
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\obj\Debug\Flooring.Data.csproj.CopyComplete
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\obj\Debug\Flooring.Data.dll
+D:\Repos\Projects\Flooring_Mastery\Flooring.Data\obj\Debug\Flooring.Data.pdb

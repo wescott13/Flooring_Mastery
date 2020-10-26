@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,"Jay",OH,6.25,Carpet,100,2.25,2.10,225.00,210.00,27,462.00
+2,"Bob",PA,6.75,Laminate,100,1.75,2.10,175.00,210.00,26,411.00
+3,"ToEdit",MI,5.75,Tile,100,3.50,4.15,350.00,415.00,44,809.00
